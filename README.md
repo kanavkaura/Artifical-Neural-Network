@@ -1,4 +1,4 @@
-# Artifical-Neural-Network
+# Artificial-Neural-Network
 2-layer ANN model made using Python
 
 The perceptron learning algorithm is implemented in the following code. A straightforward linear binary classifier used in machine learning is the perceptron. By locating a linear decision boundary, it can divide data points into two categories.
